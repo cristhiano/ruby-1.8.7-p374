@@ -1,7 +1,7 @@
 FROM buildpack-deps:jessie
 
 ENV RUBY_MAJOR 1.8.7
-ENV RUBY_VERSION 1.8.7-p357
+ENV RUBY_VERSION 1.8.7-p358
 ENV RUBY_DOWNLOAD_SHA256 9e0856d58830e08f1e38233947d859898ae09d4780cb1a502108e41308de33cb
 
 # some of ruby's build scripts are written in ruby
